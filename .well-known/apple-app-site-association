@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9X263BZW52.sg.autumn.tech.development",
+        "paths": [
+          "account/login",
+          "account/forgot-password",
+          "account/home"
+        ]
+      }
+    ]
+  }
+}
