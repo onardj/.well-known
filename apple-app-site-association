@@ -7,7 +7,8 @@
         "paths": [
           "account/login",
           "account/forgot-password",
-          "account/home"
+          "account/home",
+          ".well-known"
         ]
       }
     ]
