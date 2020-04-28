@@ -1,3 +1,4 @@
+
 {
   "applinks": {
     "apps": [],
@@ -7,8 +8,31 @@
         "paths": [
           "account/login",
           "account/forgot-password",
-          "account/home",
-          ".well-known"
+          "account/home"
+        ]
+      },
+      {
+        "appID": "9X263BZW52.sg.autumn.tech.qa",
+        "paths": [
+          "account/login",
+          "account/forgot-password",
+          "account/home"
+        ]
+      },
+      {
+        "appID": "9X263BZW52.sg.autumn.tech.uat",
+        "paths": [
+          "account/login",
+          "account/forgot-password",
+          "account/home"
+        ]
+      },
+      {
+        "appID": "9X263BZW52.sg.autumn.tech",
+        "paths": [
+          "account/login",
+          "account/forgot-password",
+          "account/home"
         ]
       }
     ]
