@@ -1,9 +1,17 @@
 
 <html>
+  <script   src="https://code.jquery.com/jquery-3.5.1.slim.min.js"   integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="   crossorigin="anonymous"></script>
+ 
   <body>
+
     <div>test page</div>
     <a href="https://app.qa.autumn.sg/account/home" class="swal2-confirm swal2-styled" style="text-decoration: none">open the autump app QA</a>
     <div>test page</div>
-    <a href="https://app.dev.autumn.sg/account/home" class="swal2-confirm swal2-styled" style="text-decoration: none">open the autump app DEV</a>
+    <a href="https://app.dev.autumn.sg/home/account" class="swal2-confirm swal2-styled" style="text-decoration: none">open the autump app DEV</a>
   </body>
+  <script  type="text/javascript">
+    $('a').click(() => {
+        alert('test')
+    })
+  </script>
 </html>
