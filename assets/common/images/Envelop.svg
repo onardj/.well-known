@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="367px" height="340px" viewBox="0 0 367 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>A7D53FA6-A546-422A-962A-03805DD8355D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1128" height="358" rx="10"></rect>
+        <filter x="-1.1%" y="-3.4%" width="102.1%" height="106.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.431668931   0 0 0 0 0.431668931   0 0 0 0 0.431668931  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="12" y="0" width="319" height="292" rx="10"></rect>
+        <filter x="-12.9%" y="-10.6%" width="125.7%" height="128.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.11372549   0 0 0 0 0.164705882   0 0 0 0 0.266666667  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-6" points="342.55495 0 343 219 0 219"></polygon>
+        <filter x="-0.7%" y="-3.4%" width="101.5%" height="104.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="-5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-8" points="0 1 171 109.299361 0 219"></polygon>
+        <filter x="-1.5%" y="-3.4%" width="102.9%" height="104.6%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="-5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Family-&amp;-Network" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Family-&amp;-Access" transform="translate(-260.000000, -545.000000)">
+            <rect fill="#FAF9F7" x="0" y="0" width="1441" height="1024"></rect>
+            <g id="Group" transform="translate(156.000000, 539.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="Logotype" transform="translate(348.000000, 612.000000)"></g>
+            <g id="Group-7" transform="translate(272.000000, 559.000000)">
+                <g id="Base-Copy-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <text id="Invite-your-firends" font-family="Raleway-Medium, Raleway" font-size="16" font-weight="400" letter-spacing="0.0004571429" fill="#505D6F">
+                    <tspan x="36" y="44">Invite your firends &amp; family to Autumn </tspan>
+                    <tspan x="36" y="63">to get free 3 months of premium </tspan>
+                    <tspan x="36" y="82">account each!</tspan>
+                </text>
+                <g id="Group-6" transform="translate(0.000000, 93.000000)" fill-rule="nonzero">
+                    <g id="Triangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <use fill="#A86781" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Triangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                        <use fill="#B45C7F" xlink:href="#path-8"></use>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(177.895184, 253.395184)">
+                    <text id="Autumn" font-family="Raleway-SemiBold, Raleway" font-size="26" font-weight="500" fill="#FFFFFF">
+                        <tspan x="54.104816" y="33.604816">Autumn</tspan>
+                    </text>
+                    <path d="M39,30.0975791 C39,41.1442927 32.5085585,45 24.4990486,45 C24.3138986,45 24.1287486,44.9980255 23.9455745,44.9940893 C23.5733717,44.9861967 23.2069741,44.9684627 22.8425742,44.9408634 C15.6144844,44.426377 10,40.3715768 10,30.0975772 C10,19.4628417 23.4427704,6.03883625 24.4405757,5.05716023 L24.4425259,5.05518753 C24.4795424,5.01773397 24.4990486,5 24.4990486,5 C24.4990486,5 39,19.052827 39,30.0975791 Z" id="Logo" fill="#FF826B" fill-rule="nonzero" transform="translate(24.500000, 25.000000) rotate(-225.000000) translate(-24.500000, -25.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
