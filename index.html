@@ -1,39 +1,10 @@
-<!doctype html>
-<html lang="en" dir="ltr">
-<head prefix="og: http://ogp.me/ns#">
-    <meta charset="utf-8">
-    <title>Autumn</title>
-    <base href="/">
-
-    <meta property="og:title" content="Autumn" />
-    <meta property="og:image" content="" />
-    <meta property="og:description" content="Base solution for your next web application" />
-    <meta property="og:url" content="">
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="">
-    <meta name="description" content="">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="poc/styles.ad5fab8ca114df27edb7.css"></head>
-<body>
-    <app-root></app-root>
-<script type="text/javascript" src="poc/runtime.e8d842e314484bc86f9b.js"></script><script type="text/javascript" src="poc/polyfills.b899a476360756076d72.js"></script><script type="text/javascript" src="poc/scripts.fd80d51c3b4509a70d53.js"></script><script type="text/javascript" src="poc/main.5bd2e41430a91e7d8e53.js"></script></body>
+<html>
+    <body>
+        <a href="" id="link1">test url</a>
+        <script>
+                document.getElementById("link1").addEventListener("click", function() {
+                    window.open('http://onardj.github.io/.well-known', '_self')
+                })
+        </script>
+    </body>
 </html>
-
-
-this._alertService.notification(
-    this.l(response.responseTitle),
-    this.l(response.responseMessage),
-    'success',
-    'Ok',
-    (val: boolean) => {
-        //TODO: pop the mobile app
-        window.open('https://autumn.sg', '_self')
-    }
-);
