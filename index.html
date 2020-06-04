@@ -1,9 +1,10 @@
 <html>
     <body>
-        <a href="" id="link1">test url</a>
+        <a id="link1">test url</a>
         <script>
-                document.getElementById("link1").addEventListener("click", function() {
-                    window.open('http://onardj.github.io/.well-known', '_self')
+                document.getElementById("link1").addEventListener("click", function(e) {
+                    e.preventDefault()
+                    window.open('http://onardj.github.io/.well-known/land', '_self')
                 })
         </script>
     </body>
