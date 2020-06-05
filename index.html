@@ -1,10 +1,27 @@
 <html>
     <body>
-        <a id="link1">test url</a>
+        <br><br>
+        <br><br>
+
+        <a href="http://onardj.github.io/.well-known/account/login">test url</a>
+        <br><br>
+        <br><br>
+        <br><br>
+
+        <a id="link1">test url with _target</a>
+        <br><br>
+        <br><br>
+        <br><br>
+        <a id="link2">test url with _self</a>
+
         <script>
                 document.getElementById("link1").addEventListener("click", function(e) {
                     e.preventDefault()
-                    window.open('http://onardj.github.io/.well-known/account/login', '_blank')
+                    window.open('http://onardj.github.io/.well-known/account/login', '_target')
+                })
+                document.getElementById("link2").addEventListener("click", function(e) {
+                    e.preventDefault()
+                    window.open('http://onardj.github.io/.well-known/account/login', '_self')
                 })
         </script>
     </body>
